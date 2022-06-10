@@ -1,0 +1,14 @@
+    Finished release [optimized] target(s) in 0.01s
+     Running `target/release/srand`
+Fixed Seeded Random u8: 197
+Fixed Seeded Random u16: 35785
+Fixed Seeded Random u32: 2243192112
+Fixed Seeded Random i32: -1939474231
+Fixed Seeded Random float: 0.7892508066800136
+
+
+Seeded From Entropy Random u8: 206
+Seeded From Entropy Random u16: 15228
+Seeded From Entropy Random u32: 4009673407
+Seeded From Entropy Random i32: -1757319195
+Seeded From Entropy Random float: 0.32393314323819566
