@@ -1,0 +1,14 @@
+    Finished release [optimized] target(s) in 0.01s
+     Running `/home/chris/projects/rust/srand/target/release/srand`
+Fixed Seeded Random u8: 197
+Fixed Seeded Random u16: 35785
+Fixed Seeded Random u32: 2243192112
+Fixed Seeded Random i32: -1939474231
+Fixed Seeded Random float: 0.7892508066800136
+
+
+Seeded From Entropy Random u8: 243
+Seeded From Entropy Random u16: 62055
+Seeded From Entropy Random u32: 1858384339
+Seeded From Entropy Random i32: -991304930
+Seeded From Entropy Random float: 0.16212311570912463
