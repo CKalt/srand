@@ -1,4 +1,4 @@
-    Finished release [optimized] target(s) in 0.00s
+    Finished release [optimized] target(s) in 0.40s
      Running `target/release/srand`
 ChaCha8 Fixed Seeded Random u8: 197
 ChaCha8 Fixed Seeded Random u16: 35785
@@ -8,12 +8,12 @@ ChaCha8 Fixed Seeded Random float: 0.7892508066800136
 ChaCha8 Fixed Seeded Spinner One
 
 
-ChaCha8 Seeded From Entropy Random u8: 108
-ChaCha8 Seeded From Entropy Random u16: 42955
-ChaCha8 Seeded From Entropy Random u32: 198342525
-ChaCha8 Seeded From Entropy Random i32: 1761763688
-ChaCha8 Seeded From Entropy Random float: 0.7286557960450669
-ChaCha8 Seeded From Entropy Spinner Two
+ChaCha8 Seeded From Entropy Random u8: 87
+ChaCha8 Seeded From Entropy Random u16: 32436
+ChaCha8 Seeded From Entropy Random u32: 3046210976
+ChaCha8 Seeded From Entropy Random i32: 278042775
+ChaCha8 Seeded From Entropy Random float: 0.45282344887016357
+ChaCha8 Seeded From Entropy Spinner One
 
 
 ChaCha20 Fixed Seeded Random u8: 142
@@ -24,9 +24,9 @@ ChaCha20 Fixed Seeded Random float: 0.7145600755761126
 ChaCha20 Fixed Seeded Spinner Three
 
 
-ChaCha20 Seeded From Entropy Random u8: 164
-ChaCha20 Seeded From Entropy Random u16: 144
-ChaCha20 Seeded From Entropy Random u32: 4082099814
-ChaCha20 Seeded From Entropy Random i32: 2099280904
-ChaCha20 Seeded From Entropy Random float: 0.9297209587728149
-ChaCha20 Seeded From Entropy Spinner One
+ChaCha20 Seeded From Entropy Random u8: 81
+ChaCha20 Seeded From Entropy Random u16: 35162
+ChaCha20 Seeded From Entropy Random u32: 545050409
+ChaCha20 Seeded From Entropy Random i32: -665037325
+ChaCha20 Seeded From Entropy Random float: 0.6011727372268736
+ChaCha20 Seeded From Entropy Spinner Two
